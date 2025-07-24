@@ -6,7 +6,7 @@
 html,body{
     height: 100%;
     width: 100%;
-    font-size: 62.5%;
+    font-size: 32%;
 }
 
 
@@ -97,6 +97,7 @@ html,body{
 a{
     cursor: pointer;
     text-decoration: none;
+    color: black;
 }
 a:hover{
     color: black;
