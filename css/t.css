@@ -6,7 +6,7 @@
 html,body{
     height: 100%;
     width: 100%;
-    font-size: 32%;
+    font-size:4px;
 }
 
 
@@ -19,7 +19,6 @@ html,body{
 }
 
 .avatar-bg{
-    /*background-color: red;*/
     margin-top: 40rem;
 }
 .avatar{
